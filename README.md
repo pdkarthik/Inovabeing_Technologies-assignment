@@ -1,6 +1,6 @@
 # ✨ Rapid Web App Builder
 
-🌐 Live: 🔗 https://task-6qrl.onrender.com
+🌐 Live: 🔗 https://inovabeing-technologies-assignment.onrender.com
 
 👤 Admin / Demo User Logins
 
