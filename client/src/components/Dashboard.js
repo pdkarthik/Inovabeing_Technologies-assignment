@@ -32,7 +32,7 @@ export const Dashboard = () => {
           <img
             src={loginDetails.profilePic}
             alt="Profile"
-            className="w-32 h-32 rounded-full border"
+            className="w-32 h-32 rounded-full border object-cover shadow-md"
           />
         )}
 
