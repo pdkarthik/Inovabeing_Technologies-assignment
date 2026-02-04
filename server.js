@@ -203,8 +203,7 @@ app.post("/validateToken", upload.none(), async (req, res) => {
   }
 });
 
-// Serve React frontend
-app.get("*", (req, res) => {
+app.use((req, res) => {
   res.sendFile(path.join(__dirname, "./client/build/index.html"));
 });
 
