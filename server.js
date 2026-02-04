@@ -203,8 +203,10 @@ app.post("/validateToken", upload.none(), async (req, res) => {
   }
 });
 
-app.get("/:any*", (req, res) => {
+// Serve React frontend
+app.get("*", (req, res) => {
   res.sendFile(path.join(__dirname, "./client/build/index.html"));
 });
+
 
 app.listen(4567, () => console.log(`\nServer running on port 4567...\n`));
