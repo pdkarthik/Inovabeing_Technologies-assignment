@@ -2,6 +2,16 @@
 
 🌐 Live: 🔗 https://task-6qrl.onrender.com
 
+👤 Admin / Demo User Logins
+
+Note: For demo purposes, you can register with any email and password.
+
+✅ Example:
+
+Email: karthik@gmail.com
+
+Password: Karthik25$
+
 This is a **Full Stack MERN application** built as part of a Rapid Web App Builder challenge. It helps developers build full-featured web applications **quickly**, with modern best practices and features like authentication, image uploads, dashboards, form validation, dark mode, and more.
 
 ---
